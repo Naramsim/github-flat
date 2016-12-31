@@ -1,0 +1,16 @@
+{
+  "name": "github-flat",
+  "version": "0.1.0",
+  "description": "extension to beatify Github.com",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "extension",
+    "github",
+    "flat"
+  ],
+  "author": "Naramsim",
+  "license": "MPL-2.0"
+}

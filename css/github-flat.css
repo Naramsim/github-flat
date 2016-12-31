@@ -1,0 +1,43 @@
+/* All buttons */
+.btn, .btn:hover {
+	background-image: none !important;
+}
+
+.btn:active, .btn.selected, .btn.zeroclipboard-is-active {
+	box-shadow: none !important;
+}
+
+/* All forms */
+.form-control.focus, .form-control:focus, .form-select.focus, .form-select:focus, .form-control, .form-select {
+	box-shadow: none !important;
+}
+/* Empty boxes, like https://github.com/settings/replies */
+.blankslate {
+	box-shadow: none !important;
+}
+
+/* Keyboard buttons */
+kbd {
+	box-shadow: none !important;
+}
+
+/* Buttons in help.github.com */
+body#com div.search-form.big button, div.search-form.small button {
+	background: rgb(221, 221, 221) !important;
+}
+
+body#com ul#bootcamp li a h4 {
+	background: rgb(224, 233, 237) !important;
+}
+
+body#com .minibutton {
+	background: rgb(250, 250, 250) !important;
+}
+
+body#com .minibutton:hover {
+	background: rgb(89, 155, 220) !important;
+}
+
+body#com #header {
+	background: rgb(234, 234, 234) !important;
+}

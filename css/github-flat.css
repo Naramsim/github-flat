@@ -1,5 +1,5 @@
 /* All buttons */
-.btn, .btn:hover {
+.btn, .btn:hover, .clone-url-button>.clone-url-link {
 	background-image: none !important;
 }
 
@@ -34,10 +34,13 @@ body#com .minibutton {
 	background: rgb(250, 250, 250) !important;
 }
 
-body#com .minibutton:hover {
+body#com .minibutton:hover, .clone-url-button>.clone-url-link:hover, .clone-url-button>.clone-url-link:active {
 	background: rgb(89, 155, 220) !important;
+	box-shadow: none !important;
 }
 
 body#com #header {
 	background: rgb(234, 234, 234) !important;
 }
+
+/* Other */

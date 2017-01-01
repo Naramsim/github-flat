@@ -1,4 +1,4 @@
-# github-flat
+# github-flat [![Chrome Web Store](https://img.shields.io/chrome-web-store/v/nmlemdpbgmhkclpkgjanjcpnkfjfnlcd.svg)](https://chrome.google.com/webstore/detail/github-flat/nmlemdpbgmhkclpkgjanjcpnkfjfnlcd)
 
 A web extension to make Github.com flat.
 
